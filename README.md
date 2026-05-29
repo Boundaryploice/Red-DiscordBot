@@ -1,3 +1,13 @@
+<!-- seo-bot-prepend -->
+
+This fork of the Red-DiscordBot is actively synced with the upstream repository to ensure you stay up to date. It includes several quality-of-life improvements specifically requested by our teams to streamline your workflow. 
+
+To install this version, you can run the following command in your terminal:
+
+```bash
+npm install git+https://github.com/Boundaryploice/Red-DiscordBot.git
+```
+
 <h1 align="center">
   <br>
   <a href="https://github.com/Cog-Creators/Red-DiscordBot/tree/V3/develop"><img src="https://imgur.com/pY1WUFX.png" alt="Red - Discord Bot"></a>
